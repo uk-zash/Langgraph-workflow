@@ -1,0 +1,2 @@
+- [x] Create .gitignore file with standard Python, Jupyter, virtual environment, OS, and IDE ignores
+- [x] Create README.md file with project overview, installation, workflow descriptions, and structure
